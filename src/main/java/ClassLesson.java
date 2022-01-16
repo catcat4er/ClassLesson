@@ -1,6 +1,3 @@
-import java.io.IOException;
-
-
 public class ClassLesson {
 
     public static void main (String[] args) {

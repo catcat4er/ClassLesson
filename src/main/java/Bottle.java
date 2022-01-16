@@ -6,7 +6,6 @@ public class Bottle {
     private String mat;
     Scanner sc = new Scanner(System.in);
 
-
     public Bottle() {
     }
 
